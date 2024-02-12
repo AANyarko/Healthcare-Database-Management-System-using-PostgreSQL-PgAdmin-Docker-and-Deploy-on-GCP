@@ -102,8 +102,8 @@ Healthcare organizations face challenges in efficiently managing patient informa
 ### Phase III: Logical Design (Data model mapping)
 
 - Translated the conceptual design into a logical database schema.
-- Specified entities, relationships, attributes, primary keys, and foreign keys.
-
+- Specified entities, relationships, attributes, primary keys, and foreign keys. DbDocs.io Database Schema Documentation https://dbdocs.io/lexzix06/HealthcareDB
+  
 ### Phase IV: Physical Design (Internal Schema)
 
 - Transformed the logical database schema into a physical database.
